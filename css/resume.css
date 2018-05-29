@@ -32,11 +32,18 @@ h2 {
   font-size: 3.5rem;
 }
 
-.subheading {
+.subheading1 {
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
+}
+.subheading2 {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.35rem;
+  color: #6f42c1;
 }
 
 .list-social-icons a {
@@ -149,3 +156,4 @@ a:hover, a:focus, a:active {
 .letraMediana {
  font-size: 5px;
 }
+
